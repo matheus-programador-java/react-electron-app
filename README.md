@@ -10,10 +10,10 @@ Boilerplate React Electron App
 <p>npm install</p>
 </br>
 <p><b>How to use:</b></p>
-<p><i>//TO DEVELOPMENT</i></p>
+<p><i>#TO DEVELOPMENT</i></p>
 <p>npm run electron-dev</p>
 </br>
-<p>//TO BUILD/DIST</p>
+<p>#TO BUILD/DIST</p>
 <p>npm run electron-pack</p>
 </br>
 </br>
