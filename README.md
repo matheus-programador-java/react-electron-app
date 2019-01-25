@@ -5,7 +5,7 @@ Boilerplate React Electron App
 <p>Node.js NPM Yarn</p>
 </br>
 <p><b>Installing:</b></p>
-<p>$git clone https://github.com/matheus-programador-java/react-electron-app.git</p>
+<p>git clone https://github.com/matheus-programador-java/react-electron-app.git</p>
 <p>cd react-electron-app</p>
 <p>npm install</p>
 </br>
